@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labar12.1", "labar12.1\labar12.1.csproj", "{163A3DE4-6348-49A6-A953-36997B5C0D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject12.1", "TestProject12.1\TestProject12.1.csproj", "{19E0FF31-B445-4841-B555-75DCA1CFADA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163A3DE4-6348-49A6-A953-36997B5C0D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163A3DE4-6348-49A6-A953-36997B5C0D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163A3DE4-6348-49A6-A953-36997B5C0D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163A3DE4-6348-49A6-A953-36997B5C0D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E0FF31-B445-4841-B555-75DCA1CFADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E0FF31-B445-4841-B555-75DCA1CFADA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E0FF31-B445-4841-B555-75DCA1CFADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E0FF31-B445-4841-B555-75DCA1CFADA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {506446F8-C59D-4B38-915E-FDF173BF05F6}
+	EndGlobalSection
+EndGlobal

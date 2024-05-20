@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{163A3DE4-6348-49A6-A953-36997B5C0D3B}|labar12.1\\labar12.1.csproj|c:\\users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163A3DE4-6348-49A6-A953-36997B5C0D3B}|labar12.1\\labar12.1.csproj|solutionrelative:labar12.1\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0FF31-B445-4841-B555-75DCA1CFADA9}|TestProject12.1\\TestProject12.1.csproj|c:\\users\\mrkru\\source\\repos\\labar12.1\\testproject12.1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E0FF31-B445-4841-B555-75DCA1CFADA9}|TestProject12.1\\TestProject12.1.csproj|solutionrelative:testproject12.1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163A3DE4-6348-49A6-A953-36997B5C0D3B}|labar12.1\\labar12.1.csproj|c:\\users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163A3DE4-6348-49A6-A953-36997B5C0D3B}|labar12.1\\labar12.1.csproj|solutionrelative:labar12.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163A3DE4-6348-49A6-A953-36997B5C0D3B}|labar12.1\\labar12.1.csproj|c:\\users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163A3DE4-6348-49A6-A953-36997B5C0D3B}|labar12.1\\labar12.1.csproj|solutionrelative:labar12.1\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\TestProject12.1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject12.1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\TestProject12.1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject12.1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:29:32.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\MyList.cs",
+              "RelativeDocumentMoniker": "labar12.1\\MyList.cs",
+              "ToolTip": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\MyList.cs",
+              "RelativeToolTip": "labar12.1\\MyList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:23:34.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\Point.cs",
+              "RelativeDocumentMoniker": "labar12.1\\Point.cs",
+              "ToolTip": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\Point.cs",
+              "RelativeToolTip": "labar12.1\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:21:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\Program.cs",
+              "RelativeDocumentMoniker": "labar12.1\\Program.cs",
+              "ToolTip": "C:\\Users\\mrkru\\source\\repos\\labar12.1\\labar12.1\\Program.cs",
+              "RelativeToolTip": "labar12.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:20:26.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
