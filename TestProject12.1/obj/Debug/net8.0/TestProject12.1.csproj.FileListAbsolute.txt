@@ -117,3 +117,4 @@ C:\Users\mrkru\source\repos\labar12.1\TestProject12.1\obj\Debug\net8.0\refint\Te
 C:\Users\mrkru\source\repos\labar12.1\TestProject12.1\obj\Debug\net8.0\TestProject12.1.pdb
 C:\Users\mrkru\source\repos\labar12.1\TestProject12.1\obj\Debug\net8.0\TestProject12.1.genruntimeconfig.cache
 C:\Users\mrkru\source\repos\labar12.1\TestProject12.1\obj\Debug\net8.0\ref\TestProject12.1.dll
+C:\Users\mrkru\source\repos\labar12.1\TestProject12.1\obj\Debug\net8.0\TestProject12.1.sourcelink.json
